@@ -1,0 +1,125 @@
+(venv) PS C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized> python -m src.stepl_load
+Map: 100%|████████████████████████████████████████████████████████████████| 7069/7069 [00:27<00:00, 2k57.06 examples/s]                                                                                    <
+Saving the dataset (1/1 shards): 100%|██████████████████████████████████| 7069/7069 [00:00<00:00, 646<32.13 examples/s]                                                                                    k
+Map: 100%|████████████████████████████████████████████████████████████████| 6740/6740 [00:28<00:00, 2438.70 examples/s]                                                                                    1
+Saving the dataset (1/1 shards): 100%|██████████████████████████████████| 6740/6740 [00:00<00:00, 307590.72 examples/s]                                                                                    3
+Map: 100%|████████████████████████████████████████████████████████████████| 2000/2000 [00:09<00:00, 2306.03 examples/s]                                                                                    9
+Saving the dataset (1/1 shards): 100%|██████████████████████████████████████████████████| 2000/2000 [000:00<00:00, 37162.13 examples/s]                                                                    0
+Map:   9%|███████▌                                                                          | 184/200 Map:  10%|████████▌                                                                         | 208/200Map:  12%|█████████▋                                                                        | 236/200Map:  13%|██████████▌                                                                      | 260/2000Map:  14%|███████████▌                                                                     | 284/2000Map:  16%|████████████▋                                                                    | 312/2000Map:  17%|██████████████                                                                   | 348/2000Map:  19%|███████████████▍                                                                 | 380/2000Map:  20%|████████████████▎                                                                | 404/2000Map:  22%|█████████████████▊                                                               | 440/2000Map:  23%|██████████████████▉                                                              | 468/2000Map:  25%|████████████████████▍                                                            | 504/2000Map:  27%|█████████████████████▊                                                           | 540/2000Map:  29%|███████████████████████▎                                                         | 576/2000Map:  31%|████████████████████████▊                                                        | 612/2000Map:  32%|█████████████████████████▉                                                       | 640/2000Map:  33%|██████████████████████████▉                                                      | 664/2000Map:  35%|████████████████████████████                                                     | 692/2000Map:  36%|████████████████████████████▊                                                    | 712/2000Map:  37%|█████████████████████████████▊                                                   | 736/2000Map:  38%|██████████████████████████████▍                                                  | 752/2000Map:  39%|███████████████████████████████▍                                                 | 776/2000Map:  41%|█████████████████████████████████                                                | 816/2000Map:  42%|██████████████████████████████████▏                                              | 844/2000Map:  44%|███████████████████████████████████▋                                             | 880/2000Map:  46%|█████████████████████████████████████▎                                           | 920/2000Map:  47%|██████████████████████████████████████▏                                          | 944/2000Map:  49%|███████████████████████████████████████▎                                         | 972/2000Map:  50%|████████████████████████████████████████▎                                       | 1008/2000Map:  52%|█████████████████████████████████████████▌                                      | 1040/2000Map:  54%|███████████████████████████████████████████                                     | 1076/2000Map:  55%|████████████████████████████████████████████▏                                   | 1104/2000Map:  57%|█████████████████████████████████████████████▎                                  | 1132/2000Map:  58%|██████████████████████████████████████████████▏                                 | 1156/2000Map:  59%|███████████████████████████████████████████████▌                                | 1188/2000Map:  61%|████████████████████████████████████████████████▋                               | 1216/2000Map:  62%|█████████████████████████████████████████████████▉                              | 1248/2000Map:  64%|███████████████████████████████████████████████████                             | 1276/2000Map:  65%|████████████████████████████████████████████████████▏                           | 1304/2000Map:  67%|█████████████████████████████████████████████████████▉                          | 1348/2000Map:  69%|███████████████████████████████████████████████████████▎                        | 1384/2000Map:  71%|████████████████████████████████████████████████████████▋                       | 1416/2000Map:  72%|█████████████████████████████████████████████████████████▊                      | 1444/2000Map:  74%|███████████████████████████████████████████████████████████▏                    | 1480/2000Map:  77%|█████████████████████████████████████████████████████████████▍                  | 1536/2000Map:  78%|██████████████████████████████████████████████████████████████▌                 | 1564/2000Map:  80%|████████████████████████████████████████████████████████████████                | 1600/2000Map:  81%|█████████████████████████████████████████████████████████████████               | 1628/2000Map:  83%|██████████████████████████████████████████████████████████████████▏             | 1656/2000Map:  84%|███████████████████████████████████████████████████████████████████▌            | 1688/2000Map:  86%|████████████████████████████████████████████████████████████████████▊           | 1720/2000Map:  88%|██████████████████████████████████████████████████████████████████████▍         | 1760/2000Map:  90%|███████████████████████████████████████████████████████████████████████▋        | 1792/2000Map:  91%|█████████████████████████████████████████████████████████████████████████       | 1828/2000Map:  94%|███████████████████████████████████████████████████████████████████████████     | 1876/2000Map:  95%|████████████████████████████████████████████████████████████████████████████▎   | 1908/2000Map:  97%|█████████████████████████████████████████████████████████████████████████████▊  | 1944/2000Map:  99%|██████████████████████████████████████████████████████████████████████████████▉ | 1972/2000Map: 100%|████████████████████████████████████████████████████████████████████████████████| 2000/2000 [00:10<00:00, 182.72 examples/s]
+Saving the dataset (1/1 shards): 100%|████████████████| 2000/2000 [00:00<00:00, 19387.60 examples/s] 
+Map: 100%|██████████████████████████████████████████████| 2000/2000 [00:09<00:00, 216.27 examples/s] 
+Saving the dataset (1/1 shards): 100%|████████████████| 2000/2000 [00:00<00:00, 11989.82 examples/s] 
+Map: 100%|██████████████████████████████████████████████| 1440/1440 [00:06<00:00, 223.12 examples/s] 
+Saving the dataset (1/1 shards): 100%|█████████████████| 1440/1440 [00:00<00:00, 8854.02 examples/s] 
+Map: 100%|████████████████████████████████████████████████| 160/160 [00:00<00:00, 170.56 examples/s] 
+Saving the dataset (1/1 shards): 100%|███████████████████| 160/160 [00:00<00:00, 2140.39 examples/s] 
+Map: 100%|████████████████████████████████████████████████| 400/400 [00:01<00:00, 219.98 examples/s] 
+Saving the dataset (1/1 shards): 100%|███████████████████| 400/400 [00:00<00:00, 4889.96 examples/s] 
+Tokenizer saved with special tokens
+(venv) PS C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized> python -m src.stepII_class_balance
+Processing DailyDialog...
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\src\stepII_class_balance.py:71: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=counts_norm, y=classes, palette="viridis")
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\src\stepII_class_balance.py:77: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=weights_norm, y=classes, palette="magma")
+Saved weights for DailyDialog to data/weights\dailydialog_weights.json
+Processing EmpatheticDialogues...
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\src\stepII_class_balance.py:71: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=counts_norm, y=classes, palette="viridis")
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\src\stepII_class_balance.py:77: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=weights_norm, y=classes, palette="magma")
+Saved weights for EmpatheticDialogues to data/weights\empatheticdialogues_weights.json
+Processing CustomSupportTickets...
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\src\stepII_class_balance.py:71: FutureWarning:
+
+` variable to `hue` and set `legend=False` for the same effect.
+  sns.barplot(x=counts_norm, y=classes, palette="viridis")
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\src\stepII_class_balance.py:77: Fut
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y`fect.
+
+  sns.barplot(x=weights_norm, y=classes, palette="magma")
+Saved weights for CustomSupportTickets to data/weights\customsupporttickets_weights.json
+(venv) PS C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized> 
+
+(venv) PS C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized> python -m src.stepIV_tra
+Model initialized with reduced architecture
+Warning: Dataset custom_support_tickets only has 1440 samples, using 1440 samples
+
+=== Phase 1: Daily Dialog ===
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\venv\Lib\site-packages\transformersrmers. Use `eval_strategy` instead
+  warnings.warn(
+  1%|██                                                                                                 1%|██▎                                                                                              
+{'loss': 9.7832, 'grad_norm': 2.7350826263427734, 'learning_rate': 3e-05, 'epoch': 0.4}
+{'eval_loss': 8.73969841003418, 'eval_runtime': 59.9591, 'eval_samples_per_second': 3.336, 'eval_steps
+{'loss': 8.6326, 'grad_norm': 2.2885284423828125, 'learning_rate': 3e-05, 'epoch': 0.8}
+{'eval_loss': 8.129576683044434, 'eval_runtime': 60.6441, 'eval_samples_per_second': 3.298, 'eval_step
+{'loss': 8.1786, 'grad_norm': 3.0399551391601562, 'learning_rate': 3e-05, 'epoch': 1.2}
+{'eval_loss': 7.786194324493408, 'eval_runtime': 63.1081, 'eval_samples_per_second': 3.169, 'eval_step
+{'loss': 7.909, 'grad_norm': 2.1250619888305664, 'learning_rate': 3e-05, 'epoch': 1.6}
+{'eval_loss': 7.616140365600586, 'eval_runtime': 63.9677, 'eval_samples_per_second': 3.127, 'eval_step
+{'loss': 7.764, 'grad_norm': 2.402433156967163, 'learning_rate': 3e-05, 'epoch': 2.0}
+{'eval_loss': 7.51078987121582, 'eval_runtime': 64.2589, 'eval_samples_per_second': 3.112, 'eval_steps
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████here were missing keys in the checkpoint model loaded: ['encoder.embed_tokens.weight', 'decoder.embed_
+{'train_runtime': 1899.8041, 'train_samples_per_second': 2.105, 'train_steps_per_second': 0.263, 'trai
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████
+
+=== Phase 1: Empathetic Dialogues ===
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\venv\Lib\site-packages\transformersrmers. Use `eval_strategy` instead
+  warnings.warn(
+{'loss': 9.6143, 'grad_norm': 2.4686319828033447, 'learning_rate': 3e-05, 'epoch': 0.4}
+{'eval_loss': 9.296086311340332, 'eval_runtime': 65.6144, 'eval_samples_per_second': 3.048, 'eval_step
+{'loss': 9.3037, 'grad_norm': 3.075188636779785, 'learning_rate': 3e-05, 'epoch': 0.8}
+{'eval_loss': 9.113511085510254, 'eval_runtime': 65.8459, 'eval_samples_per_second': 3.037, 'eval_step
+{'loss': 9.1155, 'grad_norm': 2.80613374710083, 'learning_rate': 3e-05, 'epoch': 1.2}
+{'eval_loss': 8.94032096862793, 'eval_runtime': 64.4048, 'eval_samples_per_second': 3.105, 'eval_steps
+{'loss': 8.9705, 'grad_norm': 2.73698353767395, 'learning_rate': 3e-05, 'epoch': 1.6}
+{'eval_loss': 8.770162582397461, 'eval_runtime': 63.7869, 'eval_samples_per_second': 3.135, 'eval_step
+{'loss': 8.8692, 'grad_norm': 2.241391897201538, 'learning_rate': 3e-05, 'epoch': 2.0}
+{'eval_loss': 8.60272216796875, 'eval_runtime': 64.6288, 'eval_samples_per_second': 3.095, 'eval_steps
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████here were missing keys in the checkpoint model loaded: ['encoder.embed_tokens.weight', 'decoder.embed_
+{'train_runtime': 1921.3871, 'train_samples_per_second': 2.082, 'train_steps_per_second': 0.26, 'train
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████
+
+=== Phase 1: Custom Support Tickets ===
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\venv\Lib\site-packages\transformersrmers. Use `eval_strategy` instead
+  warnings.warn(
+{'loss': 8.3466, 'grad_norm': 4.045877456665039, 'learning_rate': 3e-05, 'epoch': 0.56}
+{'eval_loss': 7.541978359222412, 'eval_runtime': 52.411, 'eval_samples_per_second': 3.053, 'eval_steps
+{'loss': 7.4508, 'grad_norm': 3.8227784633636475, 'learning_rate': 3e-05, 'epoch': 1.11}
+{'eval_loss': 6.566642761230469, 'eval_runtime': 52.1824, 'eval_samples_per_second': 3.066, 'eval_step
+{'loss': 6.7824, 'grad_norm': 4.214233875274658, 'learning_rate': 3e-05, 'epoch': 1.67}
+{'eval_loss': 5.786412239074707, 'eval_runtime': 45.5729, 'eval_samples_per_second': 3.511, 'eval_step
+{'train_runtime': 1266.9663, 'train_samples_per_second': 2.273, 'train_steps_per_second': 0.284, 'trai
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████
+Warning: Dataset custom_support_tickets only has 1440 samples, using 1440 samples
+C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized\venv\Lib\site-packages\transformersrmers. Use `eval_strategy` instead
+  warnings.warn(
+{'loss': 7.9365, 'grad_norm': 4.818958759307861, 'learning_rate': 3e-05, 'epoch': 0.15}
+{'loss': 7.7012, 'grad_norm': 4.647421360015869, 'learning_rate': 3e-05, 'epoch': 0.29}
+{'loss': 7.56, 'grad_norm': 6.385900497436523, 'learning_rate': 3e-05, 'epoch': 0.59}
+{'loss': 7.4039, 'grad_norm': 5.072779655456543, 'learning_rate': 3e-05, 'epoch': 0.74}
+{'loss': 7.4398, 'grad_norm': 5.691346645355225, 'learning_rate': 3e-05, 'epoch': 0.88}
+{'loss': 7.3531, 'grad_norm': 3.2936086654663086, 'learning_rate': 3e-05, 'epoch': 1.03}
+{'loss': 7.2154, 'grad_norm': 4.004857063293457, 'learning_rate': 3e-05, 'epoch': 1.18}
+{'loss': 7.157, 'grad_norm': 2.9018971920013428, 'learning_rate': 3e-05, 'epoch': 1.32}
+{'loss': 6.9921, 'grad_norm': 4.507711410522461, 'learning_rate': 3e-05, 'epoch': 1.47}
+{'loss': 7.0609, 'grad_norm': 3.5544824600219727, 'learning_rate': 3e-05, 'epoch': 1.62}
+{'loss': 6.8723, 'grad_norm': 3.451720714569092, 'learning_rate': 3e-05, 'epoch': 1.76}
+{'loss': 6.8418, 'grad_norm': 5.201992988586426, 'learning_rate': 3e-05, 'epoch': 1.91}
+(venv) PS C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized> 
+
+(venv) PS C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized> python -m src.stepV_evaluation
+(venv) PS C:\ROHIT\THESIS\Models\emotion-chatbot-Trial8 v8.2_exp_2_downsized>
