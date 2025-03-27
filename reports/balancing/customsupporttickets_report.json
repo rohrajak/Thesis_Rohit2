@@ -1,0 +1,19 @@
+{
+  "dataset": "CustomSupportTickets",
+  "total_samples": 1440,
+  "class_distribution": {
+    "satisfaction": 287,
+    "disappointment": 308,
+    "confusion": 275,
+    "urgency": 280,
+    "frustration": 290
+  },
+  "class_weights": {
+    "satisfaction": 0.0006968641114982578,
+    "disappointment": 0.0006493506493506494,
+    "confusion": 0.0007272727272727273,
+    "urgency": 0.0007142857142857142,
+    "frustration": 0.000689655172413793
+  },
+  "weighting_strategy": "Normalized inverse frequency weighting"
+}

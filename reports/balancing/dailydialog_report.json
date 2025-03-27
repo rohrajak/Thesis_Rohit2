@@ -1,0 +1,19 @@
+{
+  "dataset": "DailyDialog",
+  "total_samples": 13067,
+  "class_distribution": {
+    "neutral": 10553,
+    "fear": 2219,
+    "sad": 36,
+    "happy": 92,
+    "anger": 167
+  },
+  "class_weights": {
+    "neutral": 1.895195678953852e-05,
+    "fear": 9.013068949977468e-05,
+    "sad": 0.005555555555555556,
+    "happy": 0.002173913043478261,
+    "anger": 0.0011976047904191617
+  },
+  "weighting_strategy": "Normalized inverse frequency weighting"
+}
